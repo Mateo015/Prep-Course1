@@ -1,2 +1,1 @@
-# Prep-Course1
-Repositorio de prueba del modulo 2 del prep course 
+Este es el primer repositorio que voy a subir a github, en realidad seria el segundo pero el primero no pude subirlo
